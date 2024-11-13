@@ -22,9 +22,8 @@ I'm open to collaborating on:
 
 ## 📫 How to Reach Me
 Feel free to reach out if you have questions, project ideas, or just want to connect!
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [scott5443003@gmail.com](mailto:scott5443003@gmail.com)
+- **LinkedIn**: [scottcheung1110](https://www.linkedin.com/in/scottcheung1110/)
 
 ## 😄 Pronouns
 He/Him
