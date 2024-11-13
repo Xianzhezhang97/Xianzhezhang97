@@ -4,13 +4,13 @@ Welcome to my GitHub profile! Here you'll find a collection of projects and expe
 
 ## 👀 What I'm Interested In
 I'm passionate about:
-- **Artificial Intelligence & Machine Learning**: From creating recommendation systems to exploring neural networks.
 - **Web Development**: Crafting intuitive user interfaces and building efficient backends. I love working with frameworks like React, Next.js, and Node.js.
 - **Data Science**: Analyzing data to extract insights, and I'm experienced with tools like Python, Pandas, and SQL.
+- **Artificial Intelligence & Machine Learning**: From creating recommendation systems to exploring neural networks.
+
 
 ## 🌱 Currently Learning
 I'm focused on expanding my knowledge in:
-- **Advanced Machine Learning Models**: Exploring transformer architectures and NLP.
 - **Cloud Technologies**: Gaining hands-on experience with AWS and Azure to make applications scalable and efficient.
 - **Open Source Contributions**: Engaging more in the open-source community to learn from and contribute to various projects.
 
