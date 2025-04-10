@@ -17,7 +17,7 @@ I'm focused on expanding my knowledge in:
 
 ## 📫 How to Reach Me
 Feel free to reach out if you have questions, project ideas, or just want to connect!
--- **Personal Website**: [https://xianzhe.site](https://xianzhe.site)
+- **Personal Website**: [https://xianzhe.site](https://xianzhe.site)
 - **Email**: [scott5443003@gmail.com](mailto:scott5443003@gmail.com)
 - **LinkedIn**: [scottcheung1110](https://www.linkedin.com/in/scottcheung1110/)
 
