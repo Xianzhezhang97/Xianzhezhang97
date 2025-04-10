@@ -14,14 +14,10 @@ I'm focused on expanding my knowledge in:
 - **Cloud Technologies**: Gaining hands-on experience with AWS and Azure to make applications scalable and efficient.
 - **Open Source Contributions**: Engaging more in the open-source community to learn from and contribute to various projects.
 
-## 💞️ Collaboration Interests
-I'm open to collaborating on:
-- **AI-Powered Projects**: Especially ones that can make an impact in real-world applications, like legal compliance or education.
-- **Open Source Contributions**: I'm eager to contribute to projects that can help developers or improve accessibility.
-- **Hackathons & Competitions**: Love the excitement of collaborating under pressure and bringing ideas to life quickly!
 
 ## 📫 How to Reach Me
 Feel free to reach out if you have questions, project ideas, or just want to connect!
+-- **Personal Website**: [https://xianzhe.site](https://xianzhe.site)
 - **Email**: [scott5443003@gmail.com](mailto:scott5443003@gmail.com)
 - **LinkedIn**: [scottcheung1110](https://www.linkedin.com/in/scottcheung1110/)
 
